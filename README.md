@@ -69,7 +69,7 @@ For the most common platforms you can find alternative project files under `buil
 
 #### Windows
 
-- Open `build/Windows/MS_VS2022/Lerc.sln` with Microsoft Visual Studio. 
+- Open `build/Windows/MS_VS2026/Lerc.sln` with Microsoft Visual Studio.
 - Build and run.
 
 #### Linux
